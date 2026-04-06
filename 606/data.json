@@ -1,13 +1,15 @@
 {
   "vertice": "606",
-  "nombreComun": "Nopal",
+  "nombreComun": "Huizache",
   "nombreCientifico": "",
-  "altura": "0.64",
-  "copa": "0.50",
-  "dap": "",
-  "latitud": "20.6359753",
-  "longitud": "-100.4676575",
+  "altura": "2.03",
+  "copa": "1.80",
+  "dap": "0.05",
+  "latitud": "0.0",
+  "longitud": "0.0",
   "images": [
-    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/606/img0.jpg"
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/606/img1.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/606/img2.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/606/img3.jpg"
   ]
 }
