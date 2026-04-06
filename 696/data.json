@@ -2,12 +2,14 @@
   "vertice": "696",
   "nombreComun": "",
   "nombreCientifico": "",
-  "altura": "",
-  "copa": "",
-  "dap": "",
-  "latitud": "20.5708007",
-  "longitud": "-100.3068632",
+  "altura": "2.53",
+  "copa": "1.73",
+  "dap": "0.05",
+  "latitud": "20.5707689",
+  "longitud": "-100.3068921",
   "images": [
-    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/696/img0.jpg"
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/696/img1.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/696/img2.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/696/img3.jpg"
   ]
 }
