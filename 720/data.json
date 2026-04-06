@@ -1,0 +1,16 @@
+{
+  "vertice": "720",
+  "nombreComun": "Palo escoba ",
+  "nombreCientifico": "",
+  "altura": "",
+  "copa": "",
+  "dap": "",
+  "latitud": "20.5709037",
+  "longitud": "-100.3067934",
+  "images": [
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/720/img0.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/720/img1.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/720/img2.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/720/img3.jpg"
+  ]
+}
