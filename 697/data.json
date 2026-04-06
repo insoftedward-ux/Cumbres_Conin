@@ -1,16 +1,11 @@
 {
   "vertice": "697",
-  "nombreComun": "",
+  "nombreComun": "tullidora olmo",
   "nombreCientifico": "",
   "altura": "2.62",
   "copa": "1.42",
   "dap": "0.04",
-  "latitud": "20.5708143",
-  "longitud": "-100.3069563",
-  "images": [
-    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/697/img0.jpg",
-    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/697/img1.jpg",
-    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/697/img2.jpg",
-    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/697/img3.jpg"
-  ]
+  "latitud": "20.5708053",
+  "longitud": "-100.3069826",
+  "images": []
 }
