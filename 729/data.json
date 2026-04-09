@@ -1,16 +1,11 @@
 {
   "vertice": "729",
-  "nombreComun": "Tullidora",
+  "nombreComun": "Tullidora ",
   "nombreCientifico": "",
   "altura": "",
   "copa": "",
   "dap": "",
-  "latitud": "20.5705225",
-  "longitud": "-100.3067639",
-  "images": [
-    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/729/img0.jpg",
-    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/729/img1.jpg",
-    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/729/img2.jpg",
-    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/729/img3.jpg"
-  ]
+  "latitud": "20.5704859",
+  "longitud": "-100.3067493",
+  "images": []
 }
