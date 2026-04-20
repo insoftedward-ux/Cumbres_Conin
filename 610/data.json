@@ -5,9 +5,13 @@
   "altura": "1.70",
   "copa": "1.27",
   "dap": "0.033",
-  "latitud": "20.6359958",
-  "longitud": "-100.4676548",
+  "latitud": "20.571791",
+  "longitud": "-100.306925",
   "images": [
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/610/img1.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/610/img2.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/610/img3.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/610/img4.jpg",
     "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/610/img0.jpg"
   ]
 }
