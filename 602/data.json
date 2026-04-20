@@ -7,5 +7,10 @@
   "dap": "",
   "latitud": "20.6360284",
   "longitud": "-100.4676835",
-  "images": []
+  "images": [
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/601/img1.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/601/img2.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/601/img3.jpg",
+    "https://raw.githubusercontent.com/insoftedward-ux/Cumbres_Conin/main/601/img0.jpg"
+  ]
 }
